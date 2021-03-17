@@ -1,7 +1,7 @@
 # Opciones de gitignore por defecto, cuando se genera automáticamente al crear un repositorio en GitHub, con la opción Java
 # Compiled class file
 *.class
-
+*.eclipse
 # Log file
 *.log
 
